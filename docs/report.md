@@ -50,6 +50,8 @@ The two methods were implemented as follows:
 
 The obtained results were plotted in an interactive graph to visualize the function, its minimum, and the minimum approximations obtained with the two different methods.
 
+![min](https://github.com/user-attachments/assets/01afb64b-2ad9-41c6-ba7f-05745fc7d4f9)
+
 ## Analysis
 
 Given the presented results, it can be observed that the approximation obtained with the Newton method is quite close to the actual solution compared to the result of the steepest descent method, achieving this result with a smaller number of iterations.
@@ -57,6 +59,10 @@ Given the presented results, it can be observed that the approximation obtained 
 ## Convergence Order
 
 The convergence order of both methods was computed using the provided formula. However, it yielded incorrect results. The resulting graphs are shown below:
+
+![steepest_descent](https://github.com/user-attachments/assets/c98dcce9-9845-4423-8342-caa195941d23)
+
+![newton](https://github.com/user-attachments/assets/986ef5a9-e644-4426-890b-a26dbbf7e10b)
 
 ## Conclusion
 
