@@ -4,6 +4,8 @@
 
 This project implements and compares two numerical optimization methods - the Steepest Descent method and Newton's method - to find the minimum of a specific bivariate function. 
 
+![min](https://github.com/user-attachments/assets/16ffa8e3-6c33-47f9-8c94-defdfae11eb9)
+
 ## Key Features
 
 - Implementation of Steepest Descent and Newton's method for optimization
